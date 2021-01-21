@@ -1,13 +1,13 @@
 ### Rangkuman Materi Pertemuan 8-14
 
-## 1. Pengenalan Jaringan Seluler
+##  Pengenalan Jaringan Seluler
  Diperuntukan untuk perangkat yang sistemnya mobile atau pergerakan, asal katanya berasal dari cell yang di bagi ke kolom kecil kecil.
  
- # Prinsip Jaringan Seluler
--Teknologi utama yang dipakai pada mobile phone dan jaringan nirkabel.
--Menggantikan sistem transmiter/receiver dengan kebutuhan daya besar.
+ ## Prinsip Jaringan Seluler
+ - Teknologi utama yang dipakai pada mobile phone dan jaringan nirkabel.
+ - Menggantikan sistem transmiter/receiver dengan kebutuhan daya besar.
  
- # Organisasi jaringan seluler
+ ## Organisasi jaringan seluler
    dimana pada organisasi jaringan seluler ini di buat area tertentu sehingga kebutuhan daya nya tidak begitu besar untuk menyebarkan transmitter atau menyebarkan frequensi minimal menggunakan 100 W, dimana komponen utamanya yaitu transmitter nya, kemudian area dibagi menjadi beberapa cell cell kecil di mana setiap cell punya antena atau BTS yang di sebut dengan Base Station, cell biasa berbentuk kotak atau hexagonal secara penggambaran agar mudah untuk di ilustrasikan, biasa nya dari 1 BTS sinyalnya bukan kota atau hexagonal tepatnya lingkaran. 1 tiang BTS mampu menjangkau seluas 13KM2, yang mana isi dari Base Station ada Transmitter sebagai pengirim data ,penyebar sinyal, ada  Receiver sebagai penerima sinyal, kemudian ada Control Unit menentukan jalur komunikasi.
 - cell yang bertetangga menggunakan frequensi yang berbeda.
 - penggunaan daya dari base transceiver di batasi.
