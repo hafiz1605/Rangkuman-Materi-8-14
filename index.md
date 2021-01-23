@@ -76,58 +76,58 @@ CDMA merupakan metoda multiplexing yang paling cangih dan rumit.seluruh daerah f
 Untuk membedakan antara masing masing hubungan dugunakan sistem pengkodean dengan modulasi frequensi ( pengubahan pola frequensi pembawa ) secara unik untuk masing masing hubungan.
 
 ### Sistem komunikasi CDMA ini mempunyai spesifikasi sebagai berikut:
-•	Bandwidth : 1,25 MHz.
-•	Frek Uplink : 869-894 MHz atau 1930-1990 MHz.
-•	Free Downlink : 824-894 MHz atau 1850-1910 MHz.
+•Bandwidth : 1,25 MHz.
+•Frek Uplink : 869-894 MHz atau 1930-1990 MHz.
+•Free Downlink : 824-894 MHz atau 1850-1910 MHz.
 
 ### Sifat Sifat CDMA yaitu :
-•	Kapasitas lebih tinggi.
-•	Peningkatan call security.
-•	Mereduksi derau dan interfensi lainnya.
-•	Efisiensi daya.
-•	Fasilitas koordinasi seluruh frequensi.
-•	Integrasi layanan suara,data dan vidio.
+•Kapasitas lebih tinggi.
+•Peningkatan call security.
+•Mereduksi derau dan interfensi lainnya.
+•Efisiensi daya.
+•Fasilitas koordinasi seluruh frequensi.
+•Integrasi layanan suara,data dan vidio.
 
 ### Kelebihan Dari CDMA yaitu:
-•	Menggunakan metode enkripsi dengan code unik untuk proses komunikasi,sehingga lebih aman.
-•	Harga jauh lebih murah Dibandingkan GSM pada daerah yang sama.
+•Menggunakan metode enkripsi dengan code unik untuk proses komunikasi,sehingga lebih aman.
+•Harga jauh lebih murah Dibandingkan GSM pada daerah yang sama.
 Harga yang ditawarkan oleh operator jaringan CDMA pada dasarnya cenderung lebih murah, hal ini disebabkan karena jaringan seluler CDMA bekerja pada cakupan lokal.
-•	Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat.
+•Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat.
 
 ### Kekurangan dari CDMA yaitu :
-•	Masih ada beberapa operator CDMA yang mengalami roaming.
-•	Kompatibilitas handheld yang terbatas.
-•	Coverage area yang tidak seluas GSM.
+•Masih ada beberapa operator CDMA yang mengalami roaming.
+•Kompatibilitas handheld yang terbatas.
+•Coverage area yang tidak seluas GSM.
 
 # Pertemuan 11
 ## Satelit
 
 ## Sejarah awal Satelit
-1.	SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 meluncur dengan roket R7 yang merupakn modifikasi SS-6 Sapwood rudal balistik antarbenua milik Uni Soviet.
+1.SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 meluncur dengan roket R7 yang merupakn modifikasi SS-6 Sapwood rudal balistik antarbenua milik Uni Soviet.
 
 Sputnik 1 berbentuk bola alumunium bergaris tengah 58 Centimeter dan memiliki berat 83,6 kilogram untuk mengukur kerapatan dan suhu di sepanjang orbit yang dilaluinya, satelit mengorbit pada ketinggian 227 kilometer pada titik terdekat dan 941 kilometer pada titik terjauh bumi, Sputnik menggunakan baterai seng perak yang dirancang untuk beroperasi selama dua minggu tapi ia tetap mengirim sinyal selama 22 hari
 
-2.	Vanguard II atau Satelit cuaca pertama
+2.Vanguard II atau Satelit cuaca pertama
 Meluncur pada 7 Februari 1959 dari Cape Canaveral, Florida merupakan satelati cuaca yang pertama di luncurkan keluar angkasa,menggunaka beberapa tahap peluncuran yaitu pada saat Vanguard II sampai pada titik tertentu beberapa bagiannya akan terbakar dan mendorong inti satelit, pada saat terakhir satelit berpisih dengan elemen pendorong dan langsung menuju ke orbit bumi. Vanguard II berada pada ketinggian 555 kilometer,pada saat satelit berada di orbit yang di tentukan satelit akan melakukan beberapa pengamatan terkait cuaca yang mampu mendeteksi data tutupan awan di bumi.
 
-3.	S.N.A.P atau Satelit Nuklir Pertama
+3.S.N.A.P atau Satelit Nuklir Pertama
 Pada tahun 1965, NASA kembali menghadirkan satelit pertama yang berkekuatan nuklir.
 SNAP atau System for Nuclear Auxiliary Power bertujuan untuk mempelajari potensi tenaga nuklir dalam eksporasi luar angkasa. SNAP di luncurkan menggunaka roket ATLAS Agena D sasaran utamanya  berada pada titik rendah orbit bumi pada ketinggian 1300 kilometer.SNAP memiliki 3 komponen utama yakni Reaktor Nuklir Utama,Reflektor Reaktor dan sistem Control dan sistem Konversi daya
 
-4.	Transit 1- B atau Satelit Navigasi  Pertama
-	Pada 13 April 1960 AS kembali meluncurkan Satelit bernama Transit 1-B peluncuran satelit awalnya untuk memberikan navigasi dalam segala cuaca yang akurat untuk kapal kapal laut,terutama kapal selam dan pesawat udara. Satelit diluncurkan menggunakan roket Thor Able Star dari Cape Canaveral,Florida dan ditempatkan pada orbit sekitar kutub utara.
+4.Transit 1- B atau Satelit Navigasi  Pertama
+Pada 13 April 1960 AS kembali meluncurkan Satelit bernama Transit 1-B peluncuran satelit awalnya untuk memberikan navigasi dalam segala cuaca yang akurat untuk kapal kapal laut,terutama kapal selam dan pesawat udara. Satelit diluncurkan menggunakan roket Thor Able Star dari Cape Canaveral,Florida dan ditempatkan pada orbit sekitar kutub utara.
 Transit 1-B merupakan awal dari keberhasilan sistem navigasi dunia, satelit ini berbentuk bola dengan berat sekital 119 kilogram. Berhasil mencapai orbit dan memulai konfigurasinya.
 
 Transit 1-B merupakan yang menggunaka teknik stabilisasi magnetik untuk mempertahankan posisinya, pada akhirnya Transit 1 –B diganti dengan alat Gobal Positioning System atau GPS yang lebih modern
 
-5.	S.C.O.R.E atau Satelit Komunikasi pertama
+5.S.C.O.R.E atau Satelit Komunikasi pertama
 Pada era tahun 1950 an, militer AS sedang membutuhkan alat untuk memperluas jangkauan komunikasihnya. Dimana project di beri nama “SCORE” atau signal Communications by Orbiting Relay Equipment dengan berat 68 kilogram. Orbit rendah dan hidup pendek akan membatasi peluang untuk relay real time antar dua stasiun bumi.
 
 ## Cara kerja Satelit
  Satelit tetap berada pada orbitnya karna keseimbangan antara gaya tarik gravitasi dan gaya Sentrifugal, kecepatan sudut satelit ditentukan oleh persamaan keseimbangan gaya yang menyeimbangkan gaya gravitasi dengan gaya sentrifugal. Ketika diluncurkan satelit akan mendapatkan kecepatan yang cukup untuk menyeimbangkan kedua gaya ini,satelit yang dekat dengan bumi membutuhkan kecepatan lebih untuk menahan gravitasi bumi jika di bandingkan dengan satelit yang jauh dari bumi, kemudian satelit akan melanjutkan gerakan memutarnya di sekitar bumi tanpa sumber energi eksternal.
-•	LEO merupakan Orbit terendah Bumi memiliki ketinggian 160 sampai 2000 Km dan priode orbit nya hanya 1,6 jam mencakup daerah bumi yang sedikit.
-•	GEOSINKRON merupakan orbit bumi memiliki ketinggian35,786 Km dan berputar  pada kecepatan sudut yang sama dengan bumi satelit membutukan waktu tepat 23 jam 56 menit dan 4 detik untuk menyelesaikan 1 putaran, GEO-STSIONER pilihan ideal untuk siaran televisi.
-•	MEO merupakan Orbit menengah cocok untuk Navigasi,Satelit GPS menggunakan MEO dengan ketinggian 20.200 Km dan periode orbitnya adalah 12 jam.
+•LEO merupakan Orbit terendah Bumi memiliki ketinggian 160 sampai 2000 Km dan priode orbit nya hanya 1,6 jam mencakup daerah bumi yang sedikit.
+•GEOSINKRON merupakan orbit bumi memiliki ketinggian35,786 Km dan berputar  pada kecepatan sudut yang sama dengan bumi satelit membutukan waktu tepat 23 jam 56 menit dan 4 detik untuk menyelesaikan 1 putaran, GEO-STSIONER pilihan ideal untuk siaran televisi.
+•MEO merupakan Orbit menengah cocok untuk Navigasi,Satelit GPS menggunakan MEO dengan ketinggian 20.200 Km dan periode orbitnya adalah 12 jam.
 
 
 
