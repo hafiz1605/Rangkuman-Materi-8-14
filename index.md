@@ -14,10 +14,10 @@ Organisasi jaringan seluler
   di mana setiap cell diberi beberapa alokasi frequensi, power dibatasi agar tidak mengganggu cell tetangga,alokasi frequensi dapat digunakan ulang oleh cell yang tidak bertetangga,cell bertetangga tidak boleh pakai alokasi frequensiyang sama.
   
 ## Contoh Alokasi 1 G Analog
-    yaitu kartu yang digunakan untuk satu jalur untuk satu orang, bentuk handpone nya memiliki antena panjang, komponen yang terdapat pada 1G yaitu,
+   yaitu kartu yang digunakan untuk satu jalur untuk satu orang, bentuk handpone nya memiliki antena panjang, komponen yang terdapat pada 1G yaitu,
 - Setiap sel terdiri dari 7 sel hexagonal grid,menggunakan 1/7 dari channel suara duplex.
 - sebuah cell phone memiliki 832 frequensi radio, setiap mengunakan 2 frequensi ponsel menggunakan 2 frequensi dari 832 frequensi, sehingga setiap cell memilikki sekitar 56    kanal suara.jadi pada setiap cell hanya 56 orang yang dapat saling berbicara pada saat bersamaan.
-
+yaitu kartu yang digunakan untuk satu jalur untuk satu orang, bentuk handpone nya memiliki antena panjang, komponen yang terdapat pada 1G yaitu,
 ## cara kerja dari jaringan seluler yang bersifat mobile
  yaitu pertama ponsel akan mencari BTS terdekat kemudian akan mengirimkan ke proveder atau operatornya untuk memeriksa jalanya, selanjutnya akan di masukan ke alat PSTN yg di gunakan untuk menentukan kemana jalur nya.
     PSTN ( public Switch Telephone Network) yang menentukan jalur.
@@ -39,5 +39,4 @@ Setiap ponsel memiliki kode khusus untuk menujukan identitas posel misalnya No H
 
 
 
-[Link](url) and ![Image](src)
-```
+
