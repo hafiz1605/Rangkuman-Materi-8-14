@@ -3,7 +3,7 @@
 # Pengenalan Jaringan Seluler
  Diperuntukan untuk perangkat yang sistemnya mobile atau pergerakan, asal katanya berasal dari cell yang di bagi ke kolom kecil kecil.
  
-Prinsip Jaringan Seluler
+## Prinsip Jaringan Seluler
  - Teknologi utama yang dipakai pada mobile phone dan jaringan nirkabel.
  - Menggantikan sistem transmiter/receiver dengan kebutuhan daya besar.
 
@@ -19,7 +19,7 @@ Organisasi jaringan seluler
 - sebuah cell phone memiliki 832 frequensi radio, setiap mengunakan 2 frequensi ponsel menggunakan 2 frequensi dari 832 frequensi, sehingga setiap cell memilikki sekitar 56    kanal suara.jadi pada setiap cell hanya 56 orang yang dapat saling berbicara pada saat bersamaan.
 
 ## cara kerja dari jaringan seluler yang bersifat mobile
-yaitu pertama ponsel akan mencari BTS terdekat kemudian akan mengirimkan ke proveder atau operatornya untuk memeriksa jalanya, selanjutnya akan di masukan ke alat PSTN yg di gunakan untuk menentukan kemana jalur nya.
+ yaitu pertama ponsel akan mencari BTS terdekat kemudian akan mengirimkan ke proveder atau operatornya untuk memeriksa jalanya, selanjutnya akan di masukan ke alat PSTN yg di gunakan untuk menentukan kemana jalur nya.
     PSTN ( public Switch Telephone Network) yang menentukan jalur.
     MTSO ( Mobile Telephone Switching Office) proveder cellular,kantor pusat,menentukan kanal,ponsel disebut dengan Mobile subscriber unit(MSU).Kemudian
 Setiap ponsel memiliki kode khusus untuk menujukan identitas posel misalnya No Handphone kita yang memilikki 12 digit dari 12 nomor itu ada bagi bagian nya ada yang menentukan kode wilaya,kode negara, lalu posisi dari nomor.
