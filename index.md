@@ -66,7 +66,7 @@ GSM pertama kali dibuat di eropa,yang membedakan GSM sekarang yaitu jumlah kanal
 
 
 # Pertemuan 10
-## 3. CDMA ( Code Division Multiple Access )
+## CDMA ( Code Division Multiple Access )
  Sejarah CDMA
 	CDMA awalnya dipergunakan dalam komunikasi radio militer AS, mulai tahun 1990 patennya diberikan kepada qualcomm,Inc.dan dijadikan sebagai standar seluler digital di AS sejak tahun 1993,CDMA awalnya bersifat lokal. Sebelum adanya CDMA cikal bakalnya ada WDMA dan sebelumnya lagi ada TDMA dan sebelunya lagi ada FDMA.
 	
