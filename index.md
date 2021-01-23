@@ -76,28 +76,28 @@ CDMA merupakan metoda multiplexing yang paling cangih dan rumit.seluruh daerah f
 Untuk membedakan antara masing masing hubungan dugunakan sistem pengkodean dengan modulasi frequensi ( pengubahan pola frequensi pembawa ) secara unik untuk masing masing hubungan.
 
 ### Sistem komunikasi CDMA ini mempunyai spesifikasi sebagai berikut:
-•Bandwidth : 1,25 MHz.
-•Frek Uplink : 869-894 MHz atau 1930-1990 MHz.
-•Free Downlink : 824-894 MHz atau 1850-1910 MHz.
+* Bandwidth : 1,25 MHz.
+* Frek Uplink : 869-894 MHz atau 1930-1990 MHz.
+* Free Downlink : 824-894 MHz atau 1850-1910 MHz.
 
 ### Sifat Sifat CDMA yaitu :
-•Kapasitas lebih tinggi.
-•Peningkatan call security.
-•Mereduksi derau dan interfensi lainnya.
-•Efisiensi daya.
-•Fasilitas koordinasi seluruh frequensi.
-•Integrasi layanan suara,data dan vidio.
+* Kapasitas lebih tinggi.
+* Peningkatan call security.
+* Mereduksi derau dan interfensi lainnya.
+* Efisiensi daya.
+* Fasilitas koordinasi seluruh frequensi.
+* Integrasi layanan suara,data dan vidio.
 
 ### Kelebihan Dari CDMA yaitu:
-•Menggunakan metode enkripsi dengan code unik untuk proses komunikasi,sehingga lebih aman.
-•Harga jauh lebih murah Dibandingkan GSM pada daerah yang sama.
+* Menggunakan metode enkripsi dengan code unik untuk proses komunikasi,sehingga lebih aman.
+* Harga jauh lebih murah Dibandingkan GSM pada daerah yang sama.
 Harga yang ditawarkan oleh operator jaringan CDMA pada dasarnya cenderung lebih murah, hal ini disebabkan karena jaringan seluler CDMA bekerja pada cakupan lokal.
-•Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat.
+* Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat.
 
 ### Kekurangan dari CDMA yaitu :
-•Masih ada beberapa operator CDMA yang mengalami roaming.
-•Kompatibilitas handheld yang terbatas.
-•Coverage area yang tidak seluas GSM.
+* Masih ada beberapa operator CDMA yang mengalami roaming.
+* Kompatibilitas handheld yang terbatas.
+* Coverage area yang tidak seluas GSM.
 
 # Pertemuan 11
 ## Satelit
@@ -125,9 +125,9 @@ Pada era tahun 1950 an, militer AS sedang membutuhkan alat untuk memperluas jang
 
 ## Cara kerja Satelit
  Satelit tetap berada pada orbitnya karna keseimbangan antara gaya tarik gravitasi dan gaya Sentrifugal, kecepatan sudut satelit ditentukan oleh persamaan keseimbangan gaya yang menyeimbangkan gaya gravitasi dengan gaya sentrifugal. Ketika diluncurkan satelit akan mendapatkan kecepatan yang cukup untuk menyeimbangkan kedua gaya ini,satelit yang dekat dengan bumi membutuhkan kecepatan lebih untuk menahan gravitasi bumi jika di bandingkan dengan satelit yang jauh dari bumi, kemudian satelit akan melanjutkan gerakan memutarnya di sekitar bumi tanpa sumber energi eksternal.
-•LEO merupakan Orbit terendah Bumi memiliki ketinggian 160 sampai 2000 Km dan priode orbit nya hanya 1,6 jam mencakup daerah bumi yang sedikit.
-•GEOSINKRON merupakan orbit bumi memiliki ketinggian35,786 Km dan berputar  pada kecepatan sudut yang sama dengan bumi satelit membutukan waktu tepat 23 jam 56 menit dan 4 detik untuk menyelesaikan 1 putaran, GEO-STSIONER pilihan ideal untuk siaran televisi.
-•MEO merupakan Orbit menengah cocok untuk Navigasi,Satelit GPS menggunakan MEO dengan ketinggian 20.200 Km dan periode orbitnya adalah 12 jam.
+* LEO merupakan Orbit terendah Bumi memiliki ketinggian 160 sampai 2000 Km dan priode orbit nya hanya 1,6 jam mencakup daerah bumi yang sedikit.
+* GEOSINKRON merupakan orbit bumi memiliki ketinggian35,786 Km dan berputar  pada kecepatan sudut yang sama dengan bumi satelit membutukan waktu tepat 23 jam 56 menit dan 4 detik untuk menyelesaikan 1 putaran, GEO-STSIONER pilihan ideal untuk siaran televisi.
+* MEO merupakan Orbit menengah cocok untuk Navigasi,Satelit GPS menggunakan MEO dengan ketinggian 20.200 Km dan periode orbitnya adalah 12 jam.
 
 
 
