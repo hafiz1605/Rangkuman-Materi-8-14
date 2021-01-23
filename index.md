@@ -13,7 +13,7 @@
 - penggunaan daya dari base transceiver di batasi.
   di mana setiap cell diberi beberapa alokasi frequensi, power dibatasi agar tidak mengganggu cell tetangga,alokasi frequensi dapat digunakan ulang oleh cell yang tidak bertetangga,cell bertetangga tidak boleh pakai alokasi frequensiyang sama.
   
-  ## Contoh Alokasi 1 G Analog
+## Contoh Alokasi 1 G Analog
     yaitu kartu yang digunakan untuk satu jalur untuk satu orang, bentuk handpone nya memiliki antena panjang, komponen yang terdapat pada 1G yaitu,
 - Setiap sel terdiri dari 7 sel hexagonal grid,menggunakan 1/7 dari channel suara duplex.
 - sebuah cell phone memiliki 832 frequensi radio, setiap mengunakan 2 frequensi ponsel menggunakan 2 frequensi dari 832 frequensi, sehingga setiap cell memilikki sekitar 56    kanal suara.jadi pada setiap cell hanya 56 orang yang dapat saling berbicara pada saat bersamaan.
