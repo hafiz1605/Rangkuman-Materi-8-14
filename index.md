@@ -103,6 +103,7 @@ Harga yang ditawarkan oleh operator jaringan CDMA pada dasarnya cenderung lebih 
 ## Satelit
 
 ## Sejarah awal Satelit
+Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu,Satelit tidak menghasilkan energi kecuali untuk dirinya sendiri
 1.SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 meluncur dengan roket R7 yang merupakn modifikasi SS-6 Sapwood rudal balistik antarbenua milik Uni Soviet.
 
 Sputnik 1 berbentuk bola alumunium bergaris tengah 58 Centimeter dan memiliki berat 83,6 kilogram untuk mengukur kerapatan dan suhu di sepanjang orbit yang dilaluinya, satelit mengorbit pada ketinggian 227 kilometer pada titik terdekat dan 941 kilometer pada titik terjauh bumi, Sputnik menggunakan baterai seng perak yang dirancang untuk beroperasi selama dua minggu tapi ia tetap mengirim sinyal selama 22 hari
@@ -129,8 +130,26 @@ Pada era tahun 1950 an, militer AS sedang membutuhkan alat untuk memperluas jang
 * GEOSINKRON merupakan orbit bumi memiliki ketinggian35,786 Km dan berputar  pada kecepatan sudut yang sama dengan bumi satelit membutukan waktu tepat 23 jam 56 menit dan 4 detik untuk menyelesaikan 1 putaran, GEO-STSIONER pilihan ideal untuk siaran televisi.
 * MEO merupakan Orbit menengah cocok untuk Navigasi,Satelit GPS menggunakan MEO dengan ketinggian 20.200 Km dan periode orbitnya adalah 12 jam.
 
+### Fungsi Satelit Berdasarkan Jenisnya
 
-
+* Satelit Astronomi
+dipakai untuk mengamati planet, bintang, dan objek lainnya. Salah satu contoh yakni satelit Hubble yang dipakai untuk memfoto Red Rose Nebula.
+* Satelit Komunikasi
+Difungsikan untuk tujuan telekomunikasi, pancaran radio, dan televisi yang menggunakan frekuensi gelombang mikro.
+* Satelit pantau bumi (GPS Satellite)
+dipakai untuk navigasi dan pabrikasi peta.tanda-tanda masa radio yang mengizinkan user atau konsumen mengetahui lokasi mereka dengan tepat via sistem GPS.
+* 
+# Pertemuan 12
+## Satelit Global Positioning System (GPS)
+adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa.GPS adalah aplikasi navigasi yang memanfaatkan sistem GNSS (Global Navigation Satellite System),Sistem navigasi di dalam smartphone harus mengetahui satelit mana yang relevan untuk perhitungan posisinya,TTFF(Time To First Fix) itu adalah waktu antara pertama kali sistem navigasi mencoba mencari tahu posisi satelit-satelit tersebut.
+* Sistem satelit navigasi dan penentuan posisi.
+* Didesain untuk memberikan informasi tentang posisi dan kecepatan, serta informasi waktu.
+* Cakupan seluruh dunia.
+* Beroperasi secara kontinyu.
+* Tidak tergantung cuaca.
+* Dapat digunakan oleh banyak orang pada saat yang sama.
+* Sistem militer yang dimiliki dan dikelola oleh Dept.Pertahanan Amerika Serikat.
+* Prinsip dasar penentuan posisi adalah reseksi (pengikatan ke belakang) dengan jarak, yaitu dengan mengukur jarak ke beberapa satelit sekaligus.
 
 
 
