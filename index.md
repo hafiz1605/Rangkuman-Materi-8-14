@@ -1,6 +1,6 @@
 ### Rangkuman Materi Pertemuan 8-14
 
-##  Pengenalan Jaringan Seluler
+# Pengenalan Jaringan Seluler
  Diperuntukan untuk perangkat yang sistemnya mobile atau pergerakan, asal katanya berasal dari cell yang di bagi ke kolom kecil kecil.
  
  ## Prinsip Jaringan Seluler
@@ -13,18 +13,18 @@
 - penggunaan daya dari base transceiver di batasi.
   di mana setiap cell diberi beberapa alokasi frequensi, power dibatasi agar tidak mengganggu cell tetangga,alokasi frequensi dapat digunakan ulang oleh cell yang tidak bertetangga,cell bertetangga tidak boleh pakai alokasi frequensiyang sama.
   
-  # Contoh Alokasi 1 G Analog
+  ## Contoh Alokasi 1 G Analog
     yaitu kartu yang digunakan untuk satu jalur untuk satu orang, bentuk handpone nya memiliki antena panjang, komponen yang terdapat pada 1G yaitu,
 - Setiap sel terdiri dari 7 sel hexagonal grid,menggunakan 1/7 dari channel suara duplex.
 - sebuah cell phone memiliki 832 frequensi radio, setiap mengunakan 2 frequensi ponsel menggunakan 2 frequensi dari 832 frequensi, sehingga setiap cell memilikki sekitar 56    kanal suara.jadi pada setiap cell hanya 56 orang yang dapat saling berbicara pada saat bersamaan.
 
-# cara kerja dari jaringan seluler yang bersifat mobile
+## cara kerja dari jaringan seluler yang bersifat mobile
 yaitu pertama ponsel akan mencari BTS terdekat kemudian akan mengirimkan ke proveder atau operatornya untuk memeriksa jalanya, selanjutnya akan di masukan ke alat PSTN yg di gunakan untuk menentukan kemana jalur nya.
     PSTN ( public Switch Telephone Network) yang menentukan jalur.
     MTSO ( Mobile Telephone Switching Office) proveder cellular,kantor pusat,menentukan kanal,ponsel disebut dengan Mobile subscriber unit(MSU).Kemudian
 Setiap ponsel memiliki kode khusus untuk menujukan identitas posel misalnya No Handphone kita yang memilikki 12 digit dari 12 nomor itu ada bagi bagian nya ada yang menentukan kode wilaya,kode negara, lalu posisi dari nomor.
 
-# Generasi Seluler
+## Generasi Seluler
 * 1G - AMPS ( Advanced mobile phone service) hanya bisa kirim suara saja, atau Analoog voice
 * 2G - GSM ( Global system for mobile communication) sama seperti 1G hanya kirim suara atau digital voice dan mengirim text kecepatan 0,5Mbps
 * 3G - EVDO (Evolution Data Optimized)susdah bisa mengirim gambar,suara, vidio. di sebut mobile Broadband memiliki kecepatan 63 Mbps.
@@ -34,17 +34,10 @@ Setiap ponsel memiliki kode khusus untuk menujukan identitas posel misalnya No H
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
