@@ -1,6 +1,7 @@
 ### Rangkuman Materi Pertemuan 8-14
 
-# Pengenalan Jaringan Seluler
+# Pertemuan 8
+## Pengenalan Jaringan Seluler
  Diperuntukan untuk perangkat yang sistemnya mobile atau pergerakan, asal katanya berasal dari cell yang di bagi ke kolom kecil kecil.
  
 ## Prinsip Jaringan Seluler
