@@ -138,11 +138,19 @@ dipakai untuk mengamati planet, bintang, dan objek lainnya. Salah satu contoh ya
 Difungsikan untuk tujuan telekomunikasi, pancaran radio, dan televisi yang menggunakan frekuensi gelombang mikro.
 * Satelit pantau bumi (GPS Satellite)
 dipakai untuk navigasi dan pabrikasi peta.tanda-tanda masa radio yang mengizinkan user atau konsumen mengetahui lokasi mereka dengan tepat via sistem GPS.
-* 
+* Satelit Cuaca 
+berfungsi untuk menulis dan menyampaikan informasi mengenai kondisi cuaca dan iklim bumi.
+* Satelit militer
+yakni sebuah satelit telokomunikasi atau satelit memonitor bumi yang dipakai untuk kebutuhan tentara.
+* Satelit kecil
+satelit super kecil yang diterbangkan di ruang angkasa, sebagai contoh satelit mini (500-2000kg), satelit mikro (10-200kg) dan satelit nano (dibawah 10kg).
+
 # Pertemuan 12
 ## Satelit Global Positioning System (GPS)
-adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa.GPS adalah aplikasi navigasi yang memanfaatkan sistem GNSS (Global Navigation Satellite System),Sistem navigasi di dalam smartphone harus mengetahui satelit mana yang relevan untuk perhitungan posisinya,TTFF(Time To First Fix) itu adalah waktu antara pertama kali sistem navigasi mencoba mencari tahu posisi satelit-satelit tersebut.
-* Sistem satelit navigasi dan penentuan posisi.
+adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat, Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa.GPS adalah aplikasi navigasi yang memanfaatkan sistem GNSS (Global Navigation Satellite System),Sistem navigasi di dalam smartphone harus mengetahui satelit mana yang relevan untuk perhitungan posisinya.
+
+Kriteria GPS ( global Positioning System )
+* Sistem satelit navigasi dan penentuan posisi. satelitnya tidak sama dengan satelit komunikasi biasa,satelit berada paling rendah dengan kecepatan tinggi.
 * Didesain untuk memberikan informasi tentang posisi dan kecepatan, serta informasi waktu.
 * Cakupan seluruh dunia.
 * Beroperasi secara kontinyu.
@@ -151,7 +159,25 @@ adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan
 * Sistem militer yang dimiliki dan dikelola oleh Dept.Pertahanan Amerika Serikat.
 * Prinsip dasar penentuan posisi adalah reseksi (pengikatan ke belakang) dengan jarak, yaitu dengan mengukur jarak ke beberapa satelit sekaligus.
 
+### Menentukan lokasi tidak hanya dengan satelit
+* A-GPS yang memanfaatkan jaringan selular.
+* Teknologi terkini sudah membuat sistem pendeteksi posisi bisa memanfaatkan jaringan seluler, WiFi, dan bahkan Bluetooth.
+* setiap tower seluler tentu sudah memiliki data lokasinya.
+* Dengan kemampuan untuk “mendengarkan” atau lebih pasnya sekarang disebut “melihat” posisi pemancar-pemancar sinyal tersebut,sistem navigasi global dalam smartphone akan kian mudah menentukan posisinya,bahkan di dalam gedung.
 
+### Kemampuan GPS
+GPS dapat memberikan informasi sangat akurat sampai milimeter, kalau sinyalnya bagus kalau tidak terjadi gangguan jaringan ketelitianya sampai CM/detik, kemudain untuk waktunya sampai beberapa nanodetik karna kecepatan kirim data dari satelit ke bumi itu tinggi.
+
+### Jenis Receiver GPS
+Berdasarkan fungsinya dikenal beberapa tipe receiver GPS,yaitu ada penentu posisi ada penentu waktu.
+
+Aplikasi-Aplikasi GPS
+* Aplikasi Aplikasi Militer
+* Survai & pemetaan (darat dan laut )
+* Geodesi, Geodinamika, dan Deformasi.
+* Navigasi & Transportasi.
+* Studi Troposfir & Ionosfir
+* Pendaftaran tanah,pertanian
 
 
 
