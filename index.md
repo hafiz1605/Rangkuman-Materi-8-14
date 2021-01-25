@@ -102,7 +102,7 @@ Harga yang ditawarkan oleh operator jaringan CDMA pada dasarnya cenderung lebih 
 # Pertemuan 11
 ## Satelit
 
-## Sejarah awal Satelit
+### Sejarah awal Satelit
 Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu,Satelit tidak menghasilkan energi kecuali untuk dirinya sendiri
 1.SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 meluncur dengan roket R7 yang merupakn modifikasi SS-6 Sapwood rudal balistik antarbenua milik Uni Soviet.
 
@@ -124,7 +124,7 @@ Transit 1-B merupakan yang menggunaka teknik stabilisasi magnetik untuk memperta
 5.S.C.O.R.E atau Satelit Komunikasi pertama
 Pada era tahun 1950 an, militer AS sedang membutuhkan alat untuk memperluas jangkauan komunikasihnya. Dimana project di beri nama “SCORE” atau signal Communications by Orbiting Relay Equipment dengan berat 68 kilogram. Orbit rendah dan hidup pendek akan membatasi peluang untuk relay real time antar dua stasiun bumi.
 
-## Cara kerja Satelit
+### Cara kerja Satelit
  Satelit tetap berada pada orbitnya karna keseimbangan antara gaya tarik gravitasi dan gaya Sentrifugal, kecepatan sudut satelit ditentukan oleh persamaan keseimbangan gaya yang menyeimbangkan gaya gravitasi dengan gaya sentrifugal. Ketika diluncurkan satelit akan mendapatkan kecepatan yang cukup untuk menyeimbangkan kedua gaya ini,satelit yang dekat dengan bumi membutuhkan kecepatan lebih untuk menahan gravitasi bumi jika di bandingkan dengan satelit yang jauh dari bumi, kemudian satelit akan melanjutkan gerakan memutarnya di sekitar bumi tanpa sumber energi eksternal.
 * LEO merupakan Orbit terendah Bumi memiliki ketinggian 160 sampai 2000 Km dan priode orbit nya hanya 1,6 jam mencakup daerah bumi yang sedikit.
 * GEOSINKRON merupakan orbit bumi memiliki ketinggian35,786 Km dan berputar  pada kecepatan sudut yang sama dengan bumi satelit membutukan waktu tepat 23 jam 56 menit dan 4 detik untuk menyelesaikan 1 putaran, GEO-STSIONER pilihan ideal untuk siaran televisi.
@@ -179,6 +179,49 @@ Aplikasi-Aplikasi GPS
 * Studi Troposfir & Ionosfir
 * Pendaftaran tanah,pertanian
 
+# Pertemuan 13
+## Wimax (Worldwide Interoperability for Microwave Access)
+  golombang yang digunakan bukan gelombang radio biasa tapi menggunakan gelombang micro yang ukuranya kecil kecil dan pendek pendek jaraknya tapi bisa menembus apa saja, jadi gelombang radio itu semakin kecil 1 frequensinya maka dia bisa merambat lebis jauh dibanding dengan gelombang yang besar. Wimax merupakan teknologi akses nirkabel pita lebar
+(broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.Pada jaringan selular juga telah dikembangkan teknologi yang dapat mengalirkan data yang cepat dengan jaringan suara seperti GPRS,EDGE, WCDMA, dan HSDPA.
 
+### Perbedaan Standar Wifi dan Wimax
+WiMAX merupakan penggabungan antara 2 standard:
+1. IEEE 802.16 (Institute of Electrical and Electronics Engineering) dan 
+2. ETSI HiperMAN (European Telecommunicatons Standards Institute HiperMAN)
+Penggabungan kedua standard tersebut bertujuan agar dapat digunakan secara global yang dengan memiliki spesifikasi yang cocok dengan koneksi berjenis broadband (BWA).BWA memiliki kemampuan interoperabilty antar perangkat yang berbeda.
 
+Spektrum Frekuensi WiMAX dalam certification profile:
+* Lincensed Band
+	Lincensed Band : membutuhkan lisensi atau otoritas dari regulator, yang mana operator yang memperoleh licensed band diberikan hak eksklusif untuk menyelenggarakan layanan dalam suatu area tertentu.
+Disebut juga dengan Fixed WiMAX, 3.5 GHz merupakan frekuensi mayoritas fixed WiMAX dibeberapa negara: negara2 Eropa, Canada, Timur-Tengah, Australia, dans sebagian Asia.
+Standard 802.16d menggunakan frekuensi: 3.5 GHz dan 5.8 GHz.
+* Unlicensed Band
+tidak membutuhkan lisensi dalam penggunaannya memungkinkan setiap orang menggunakan frekuensi secara bebas di semua area.
+Disebut juga Mobile WiMAX Menggunakan standar 802.16e, contoh komunikasi selular Menggunakan frekuensi: 2.3 GHz, 2.5 GHz, 3.3 GHz dan 3.5GHz,2.5 GHz merupakan frekuensi mayoritas mobile WiMAX, Indonesia menggunakan frekuensi 2.3 GHz.
 
+### Prinsip dasar Wimax 
+   WiIMAX menggunakan akses wireless broadband hingga 50 km untuk stasiun tetap,dan 5-15 km untuk stasiun bergerak, Sebagai perbandingan WLAN (WiFi) standart 802.11 hanya menjangkau sekitar30-100 meter.cara kerja WiMAX mirip dengan WiFi, Tetapi WiMAX mempunyai kecepatan yang lebih tinggi, jangkauan yang lebih luas, dan pengguna yg lebih banyak. WiMAX ini juga berpotensi untuk mengatasi masalah akses internet didesa-desa, yang belum punya akses internet karena tidak terjangkau kabel telepon.
+   
+### Sistem WiMAX
+* WiMAX tower, seperti halnya konsep telepon seluler tower (atau BTS), atau AP pada WiFi. WiMAX tower tersambung ke internet secara langsung dengan kabel yang high-bandwidth (seperti optik).Selain itu juga bisa tersambung ke WiMAX tower sebelahnya dengan line-of-sight,microwave link. Sambungan ke tower sebelahnya ini yang sering disebut dngan istilah backhaul,sehingga dapat meng-cover jangkauan sampai luar area.
+* WiMAX receiver, Penerima dan antena berupa small box atau PCMCIA card, atau sistem yg terintegrasi ke laptop sebagaimana WiFi saat ini.
+
+Bentuk pancaran gelombang yang akandiberikan WiMAX
+- Non-Line-Of-Sight (NLOS), sebagaimana halnya WiFi, sebuah antena kecil dari sebuah laptop tersambung ke tower WiMAX. Dalam mode ini WiMAX menggunakan range frekuensi yg lebih rendah 2 - 11 GHz (seperti WiFi).
+- Line-Of-Sight (LOS), sebuah antena parabola mengarah langsung ke WiMAX tower.Transmisi ini memakai frekuensi yang lebih tinggi , dengan range mencapai hingga 66 GHz. Di frekuensi yang lebih tinggi, interferensi lebih rendah dan bandwidth-nya lebih tinggi.
+
+### ELEMEN/PERANGKAT WiMAX
+1. Base Station (BS) Merupakan perangkat transceiver (transmitter dan receiver) yang biasanya dipasang satu lokasi (colocated) dengan jaringan Internet Protocol (IP).
+Komponen BS terdiri dari:
+* NPU (networking processing unit card)
+* AU (access unit card)
+* PIU (power interface unit)
+* AVU (air ventilation unit)
+* PSU (power supply unit)
+2. Antena Antena yang dipakai di BS dapat berupa sektor 60°, 90°, atau 120° tergantung dari area yang akan dilayani.
+3. Subscriber Station (SS)
+Secara umum Subscriber Station (SS) atau (Customer Premises Equipment) CPE terdiri dari Outdoor Unit (ODU) dan Indoor Unit (IDU), perangkat radionya ada yang terpisah dan ada yang terintegrasi dengan antena.
+
+MANFAAT & KEUNTUNGAN
+* WiMAX dapat melayani pelanggannya dengan area yang lebih luas dan tingkat kompatibilitas lebih tinggi.
+* Dapat melayani baik para pengguna dengan antena tetap (fixed wireless) misalnya di gedung-gedung perkantoran, rumah tinggal, toko-toko, dan sebagainya, maupun yang sering berpindah-pindah tempat atau perangkat mobile lainnya.
