@@ -94,10 +94,8 @@ Harga yang ditawarkan oleh operator jaringan CDMA pada dasarnya cenderung lebih 
 ## Satelit
 
 ### Sejarah awal Satelit
-Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu,Satelit tidak menghasilkan energi kecuali untuk dirinya sendiri
-1.SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 meluncur dengan roket R7 yang merupakn modifikasi SS-6 Sapwood rudal balistik antarbenua milik Uni Soviet.
-
-Sputnik 1 berbentuk bola alumunium bergaris tengah 58 Centimeter dan memiliki berat 83,6 kilogram untuk mengukur kerapatan dan suhu di sepanjang orbit yang dilaluinya, satelit mengorbit pada ketinggian 227 kilometer pada titik terdekat dan 941 kilometer pada titik terjauh bumi, Sputnik menggunakan baterai seng perak yang dirancang untuk beroperasi selama dua minggu tapi ia tetap mengirim sinyal selama 22 hari
+Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu,Satelit tidak menghasilkan energi kecuali untuk dirinya sendiri.
+1.SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 berbentuk bola alumunium bergaris tengah 58 Centimeter dan memiliki berat 83,6 kilogram untuk mengukur kerapatan dan suhu di sepanjang orbit yang dilaluinya, satelit mengorbit pada ketinggian 227 kilometer pada titik terdekat dan 941 kilometer pada titik terjauh bumi, Sputnik menggunakan baterai seng perak yang dirancang untuk beroperasi selama dua minggu tapi ia tetap mengirim sinyal selama 22 hari
 
 2.Vanguard II atau Satelit cuaca pertama
 Meluncur pada 7 Februari 1959 dari Cape Canaveral, Florida merupakan satelati cuaca yang pertama di luncurkan keluar angkasa,menggunaka beberapa tahap peluncuran yaitu pada saat Vanguard II sampai pada titik tertentu beberapa bagiannya akan terbakar dan mendorong inti satelit, pada saat terakhir satelit berpisih dengan elemen pendorong dan langsung menuju ke orbit bumi. Vanguard II berada pada ketinggian 555 kilometer,pada saat satelit berada di orbit yang di tentukan satelit akan melakukan beberapa pengamatan terkait cuaca yang mampu mendeteksi data tutupan awan di bumi.
@@ -106,13 +104,11 @@ Meluncur pada 7 Februari 1959 dari Cape Canaveral, Florida merupakan satelati cu
 Pada tahun 1965, NASA kembali menghadirkan satelit pertama yang berkekuatan nuklir.
 SNAP atau System for Nuclear Auxiliary Power bertujuan untuk mempelajari potensi tenaga nuklir dalam eksporasi luar angkasa. SNAP di luncurkan menggunaka roket ATLAS Agena D sasaran utamanya  berada pada titik rendah orbit bumi pada ketinggian 1300 kilometer.SNAP memiliki 3 komponen utama yakni Reaktor Nuklir Utama,Reflektor Reaktor dan sistem Control dan sistem Konversi daya
 
-4.Transit 1- B atau Satelit Navigasi  Pertama
+4. Transit 1- B atau Satelit Navigasi  Pertama
 Pada 13 April 1960 AS kembali meluncurkan Satelit bernama Transit 1-B peluncuran satelit awalnya untuk memberikan navigasi dalam segala cuaca yang akurat untuk kapal kapal laut,terutama kapal selam dan pesawat udara. Satelit diluncurkan menggunakan roket Thor Able Star dari Cape Canaveral,Florida dan ditempatkan pada orbit sekitar kutub utara.
 Transit 1-B merupakan awal dari keberhasilan sistem navigasi dunia, satelit ini berbentuk bola dengan berat sekital 119 kilogram. Berhasil mencapai orbit dan memulai konfigurasinya.
 
-Transit 1-B merupakan yang menggunaka teknik stabilisasi magnetik untuk mempertahankan posisinya, pada akhirnya Transit 1 –B diganti dengan alat Gobal Positioning System atau GPS yang lebih modern
-
-5.S.C.O.R.E atau Satelit Komunikasi pertama
+5. S.C.O.R.E atau Satelit Komunikasi pertama
 Pada era tahun 1950 an, militer AS sedang membutuhkan alat untuk memperluas jangkauan komunikasihnya. Dimana project di beri nama “SCORE” atau signal Communications by Orbiting Relay Equipment dengan berat 68 kilogram. Orbit rendah dan hidup pendek akan membatasi peluang untuk relay real time antar dua stasiun bumi.
 
 ### Cara kerja Satelit
