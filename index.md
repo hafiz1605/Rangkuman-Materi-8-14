@@ -200,11 +200,11 @@ Bentuk pancaran gelombang yang akandiberikan WiMAX
 ### ELEMEN/PERANGKAT WiMAX
 1. Base Station (BS) Merupakan perangkat transceiver (transmitter dan receiver) yang biasanya dipasang satu lokasi (colocated) dengan jaringan Internet Protocol (IP).
 Komponen BS terdiri dari:
-* NPU (networking processing unit card)
-* AU (access unit card)
-* PIU (power interface unit)
-* AVU (air ventilation unit)
-* PSU (power supply unit)
+* NPU (networking processing unit card).
+* AU (access unit card).
+* PIU (power interface unit).
+* AVU (air ventilation unit).
+* PSU (power supply unit).
 2. Antena Antena yang dipakai di BS dapat berupa sektor 60°, 90°, atau 120° tergantung dari area yang akan dilayani.
 3. Subscriber Station (SS)
 Secara umum Subscriber Station (SS) atau (Customer Premises Equipment) CPE terdiri dari Outdoor Unit (ODU) dan Indoor Unit (IDU), perangkat radionya ada yang terpisah dan ada yang terintegrasi dengan antena.
@@ -224,4 +224,60 @@ WiMAX dapat digunakan sebagai backhaul teknologi lain. Seperti backhaul seluler.
 
 # Pertemuan 14
 ## Antena
+Antena merupakan salah satu komponen penting kalau kita mau melakukan pengiriman data menggunakan nirkabel.
 
+### Konsep dasar dari Antena
+antena adalah konduktor elektrik yang berfungsi untuk
+1.Transmisi (Transmission), Meradiasikan energi elektromagnetik ke ruang bebas/space.
+2. Penerimaan (Reception), Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space ke digital.
+
+Pada komunikasi dua arah, antena yang sama dapat digunakan untuk transmission dan reception.
+
+### Pola Radiasi Antena
+bentuk sebaran medan elektromagnetik yang diberikan oleh sebuah antena yang dipasang itu secara garis besar ada 2 yaitu ada yang  Vertical dan Horizontal. Kalau horizontal iya menyebar keseluruhnya tapi kalau Vertical ditentukan arahnya kadang dia keatas atau kebawah penyebarannya.
+
+### Jenis jenis Antena
+Secara garis besar, antena dapat dibagi jadi dua jenis berdasarkan arah radiasi yaitu,
+* Omnidirectional : radiasi ke segala arah artinya tidak perlu ada antena yang mengarah langsung kesumber.
+* Directional : radiasi ke arah tertentu seperti antena parabola.
+
+1. Isotropic Antena
+* Jenis antena pada kondisi ideal,Radiasinya ke segala arah dengan merata.
+2. Antena Dipole
+Antena sederhana yang disusun dari dua batang/lempeng bahan konduktor memiliki dua jenis dipole yaitu Half-wave dipole antenna (or Hertz antenna), Quarter-wave vertical antenna (or Marconi antenna).aplikasinya antena radio mobil.
+3. Antena Monopole
+Antena sederhana yang disusun dari satu batang/lempeng bahan konduktor,aplikasinya Antena pemancar radio, access point wifi.
+4. Antena Yagi
+Antena directional yang disusun dari rangkaian elemen dipole sebagai driven element dan satu reflektor,Aplikasinya antena TV UHF, antenna radio komunitas.
+5. Antena Parabolic
+Antena directional dengan memanfaatkan reflektor berbentuk parabolik, Aplikasinya terrestrial microwave dan komunikasi satelit.
+6. Antenna Gain
+Keluaran power, pada arah tertentu, dibandingkan dengan keluaran yang dihasilkan ke semua arah pada kondisi ideal (antena isotropic).
+
+### Model Propagasi
+1. Ground-wave propagation.
+ Propagasi mengikikuti kontur bumi,sinyal dapat dipropagasikan untuk jarak yang lebih jauh untuk frequensi di bawah 2 MHz contohnya AM radio.
+
+2. Sky Wave Propagation.
+ sinyal dipantulkan dari lapisan terionisasi pada atmosfer kebumi, sinyal dapat berjalan melewati beberapa hop,memantul antara ionosfer dan permukaan bumi.efek pemantulan diakibatkan oleh refraction,contohnya Amateur radio dan CB radio.
+
+3. Line-of-Sight Propagation.
+-antena transmitter dan receiver harus berada pada  posisi Line of Sight (LOS) yang pertama ada:
+* komunikasi satelit -sinyal diatas 30 MHz tidak dipantulkan oleh ionosphere.
+* Komunikasi pada ground- antara antena pada effective line of site karena refraction.
+
+-Refraction, pemblokan microwaves oleh antmosphere
+* kecepatan gelomban elctromagnetic adalah fungsi kepadatan medium.
+* kecepatan 3x10 pangkat 8 adalah kecepatan cahaya pada ruang hampa.
+* Ketika gelombang berpindah medium,kecepatan berubah.
+* Gelombang dibelokkan pada batas antara dua medium.
+
+### Gangguan pada Transmisi LOS
+1. Attenuation and attenuation distrortion.
+2. Free space loss,lapisan atsmosfer yang tiba tiba kosong sehingga mengakibatkan perhitungan untuk pengiriman data tidak bisa tepat 100%.
+3. Noise,gangguan dalam bentuk suara,dengung.
+4. Atmospheric absorption, bentuk atsmosfer yang tidak sama dan bergelombang.
+5. Multipath, jalur yang digunakan lebih dari satu ada banyak orang yang mengirim data melalui atsmosfir sehingga bertabrakan.
+6. Refraction, bentuk pantulan.
+7. thermal noise, gangguan yang diakibatkan karna suhu udara.
+8. fading, perbedaan kecepatan antara satu wilayah dengan wilayah lain.
