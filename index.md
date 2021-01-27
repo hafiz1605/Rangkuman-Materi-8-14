@@ -222,4 +222,6 @@ WiMAX dapat digunakan sebagai backhaul teknologi lain. Seperti backhaul seluler.
 * WiMAX dapat melayani pelanggannya dengan area yang lebih luas dan tingkat kompatibilitas lebih tinggi.
 * Dapat melayani baik para pengguna dengan antena tetap (fixed wireless) misalnya di gedung-gedung perkantoran, rumah tinggal, toko-toko, dan sebagainya, maupun yang sering berpindah-pindah tempat atau perangkat mobile lainnya.
 
+# Pertemuan 14
+## Antena
 
