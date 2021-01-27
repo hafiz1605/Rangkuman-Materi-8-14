@@ -95,12 +95,12 @@ Harga yang ditawarkan oleh operator jaringan CDMA pada dasarnya cenderung lebih 
 
 ### Sejarah awal Satelit
 Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu,Satelit tidak menghasilkan energi kecuali untuk dirinya sendiri.
-1.SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 berbentuk bola alumunium bergaris tengah 58 Centimeter dan memiliki berat 83,6 kilogram untuk mengukur kerapatan dan suhu di sepanjang orbit yang dilaluinya, satelit mengorbit pada ketinggian 227 kilometer pada titik terdekat dan 941 kilometer pada titik terjauh bumi, Sputnik menggunakan baterai seng perak yang dirancang untuk beroperasi selama dua minggu tapi ia tetap mengirim sinyal selama 22 hari
+1. SPUTNIK I merupakan satelit pertama yang di luncurkan keluar angkasa oleh Uni Soviet,melalui sebuah peluncuran luar angkasa Kosmodrom Baykonur-Kazakhstan. Sputnik 1 berbentuk bola alumunium bergaris tengah 58 Centimeter dan memiliki berat 83,6 kilogram untuk mengukur kerapatan dan suhu di sepanjang orbit yang dilaluinya, satelit mengorbit pada ketinggian 227 kilometer pada titik terdekat dan 941 kilometer pada titik terjauh bumi, Sputnik menggunakan baterai seng perak yang dirancang untuk beroperasi selama dua minggu tapi ia tetap mengirim sinyal selama 22 hari
 
-2.Vanguard II atau Satelit cuaca pertama
+2. Vanguard II atau Satelit cuaca pertama
 Meluncur pada 7 Februari 1959 dari Cape Canaveral, Florida merupakan satelati cuaca yang pertama di luncurkan keluar angkasa,menggunaka beberapa tahap peluncuran yaitu pada saat Vanguard II sampai pada titik tertentu beberapa bagiannya akan terbakar dan mendorong inti satelit, pada saat terakhir satelit berpisih dengan elemen pendorong dan langsung menuju ke orbit bumi. Vanguard II berada pada ketinggian 555 kilometer,pada saat satelit berada di orbit yang di tentukan satelit akan melakukan beberapa pengamatan terkait cuaca yang mampu mendeteksi data tutupan awan di bumi.
 
-3.S.N.A.P atau Satelit Nuklir Pertama
+3. S.N.A.P atau Satelit Nuklir Pertama
 Pada tahun 1965, NASA kembali menghadirkan satelit pertama yang berkekuatan nuklir.
 SNAP atau System for Nuclear Auxiliary Power bertujuan untuk mempelajari potensi tenaga nuklir dalam eksporasi luar angkasa. SNAP di luncurkan menggunaka roket ATLAS Agena D sasaran utamanya  berada pada titik rendah orbit bumi pada ketinggian 1300 kilometer.SNAP memiliki 3 komponen utama yakni Reaktor Nuklir Utama,Reflektor Reaktor dan sistem Control dan sistem Konversi daya
 
