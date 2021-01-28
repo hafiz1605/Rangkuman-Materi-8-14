@@ -228,8 +228,8 @@ Antena merupakan salah satu komponen penting kalau kita mau melakukan pengiriman
 
 ### Konsep dasar dari Antena
 antena adalah konduktor elektrik yang berfungsi untuk
-1.Transmisi (Transmission), Meradiasikan energi elektromagnetik ke ruang bebas/space.
-2. Penerimaan (Reception), Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space ke digital.
+ 1. Transmisi (Transmission), Meradiasikan energi elektromagnetik ke ruang bebas/space.
+ 2. Penerimaan (Reception), Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space ke digital.
 
 Pada komunikasi dua arah, antena yang sama dapat digunakan untuk transmission dan reception.
 
