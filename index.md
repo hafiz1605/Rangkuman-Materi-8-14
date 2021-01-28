@@ -242,7 +242,7 @@ Secara garis besar, antena dapat dibagi jadi dua jenis berdasarkan arah radiasi 
 * Directional : radiasi ke arah tertentu seperti antena parabola.
 
 1. Isotropic Antena
-* Jenis antena pada kondisi ideal,Radiasinya ke segala arah dengan merata.
+Jenis antena pada kondisi ideal,Radiasinya ke segala arah dengan merata.
 2. Antena Dipole
 Antena sederhana yang disusun dari dua batang/lempeng bahan konduktor memiliki dua jenis dipole yaitu Half-wave dipole antenna (or Hertz antenna), Quarter-wave vertical antenna (or Marconi antenna).aplikasinya antena radio mobil.
 3. Antena Monopole
